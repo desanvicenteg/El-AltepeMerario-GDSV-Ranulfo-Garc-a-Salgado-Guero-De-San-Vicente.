@@ -1,0 +1,7 @@
+{
+    "gitlens.heatmap.locations": [
+        "gutter",
+        "overview",
+        "line"
+    ]
+}
